@@ -2,6 +2,7 @@
 
 - 💻 Computer Science undergraduate student
 - 🔭 Working on some procedural stuff
+- 🧠 Interested in machine learning
 
 ----
 <!--
