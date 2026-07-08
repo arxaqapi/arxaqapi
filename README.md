@@ -1,5 +1,5 @@
-### Tarek 🌱
+<p align="center">
+  <a href="https://takun.org">🌱 takun.org</a>
+</p>
 
-- 📜 My website: [takun.org](https://takun.org)
-----
-
+<img src="https://takun.org/dither/hero.png">
