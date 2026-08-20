@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://takun.org">🌱 takun.org</a>
+  <a href="https://kunze.cc">🌱 kunze.cc</a>
 </p>
 
-<img src="https://takun.org/dither/hero.png">
+<img src="https://kunze.cc/dither/hero.png">
